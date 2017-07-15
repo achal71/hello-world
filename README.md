@@ -1,2 +1,4 @@
 # hello-world
-Start to use Github
+Start to use Github.
+
+This is to understand Github process.
